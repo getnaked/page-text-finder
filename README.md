@@ -1,5 +1,5 @@
 # page-text-finder
-Find words on webpages and mark URL's
+Find words on webpages and mark URL's.
 
 Add URL's in urls.txt:
 - http://www.mvideo.ru/
